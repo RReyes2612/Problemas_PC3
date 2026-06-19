@@ -1,5 +1,4 @@
-package PC3;
-import java.sql.SQLOutput;
+package PC3.Graph_Conectivity;
 import java.util.*;
 public class Problema1 {
     //No dirigido
